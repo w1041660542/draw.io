@@ -1,14 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-09-26T13:16:20.928Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="mDXp0Eyv2CwX-PIaGZgV" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-26T13:16:53.910Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="jJnbddDEOJlZUxz5Czwi" version="20.3.2" type="github">
   <diagram id="D5Jv7_P8n7_tZvvc25OH" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-qY-FhQZj6WRtoRMil-y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-qY-FhQZj6WRtoRMil-y-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-qY-FhQZj6WRtoRMil-y-1" value="client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="310" width="110" height="50" as="geometry" />
+          <mxGeometry x="40" y="290" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-qY-FhQZj6WRtoRMil-y-2" value="server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="290" width="110" height="50" as="geometry" />
+          <mxGeometry x="580" y="290" width="110" height="50" as="geometry" />
         </mxCell>
         <UserObject label="https://segmentfault.com/img/bVbClUl" link="https://segmentfault.com/img/bVbClUl" id="-qY-FhQZj6WRtoRMil-y-3">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
