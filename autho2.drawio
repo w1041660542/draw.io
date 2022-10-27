@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T08:43:51.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.1" etag="r59rnNfNHEZowDB2lSbE" type="github"><diagram id="Vnl1slm2nfvd-SXTltab">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-27T09:23:26.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="tmH2avtEr_kk54Ggq8uN" version="20.5.1" type="github">
+  <diagram id="Vnl1slm2nfvd-SXTltab" name="第 1 页">
+    <mxGraphModel dx="1209" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vo_YTM4ZpzbwymTgl791-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="25" y="440" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vo_YTM4ZpzbwymTgl791-1" target="vo_YTM4ZpzbwymTgl791-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-1" value="应用服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="vo_YTM4ZpzbwymTgl791-2" target="vo_YTM4ZpzbwymTgl791-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-4" value="&lt;span style=&quot;color: rgb(199, 37, 78); font-family: Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; font-size: 14px; text-align: left; background-color: rgb(249, 242, 244);&quot;&gt;client_id&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="60" y="560" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-5" value="&lt;span style=&quot;color: rgb(199, 37, 78); font-family: Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; font-size: 14px; text-align: left; background-color: rgb(249, 242, 244);&quot;&gt;response_type&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="560" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-6" value="&lt;span style=&quot;color: rgb(199, 37, 78); font-family: Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; font-size: 14px; text-align: left; background-color: rgb(249, 242, 244);&quot;&gt;client_secret&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-7" value="&lt;span style=&quot;color: rgb(199, 37, 78); font-family: Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; font-size: 14px; text-align: left; background-color: rgb(249, 242, 244);&quot;&gt;grant_type&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="690" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-8" value="授权服务器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-10" value="&lt;span style=&quot;color: rgb(199, 37, 78); font-family: Consolas, &amp;quot;Liberation Mono&amp;quot;, Menlo, Courier, monospace; font-size: 14px; text-align: left; background-color: rgb(249, 242, 244);&quot;&gt;code 授权码&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="690" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vo_YTM4ZpzbwymTgl791-12" value="参数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
