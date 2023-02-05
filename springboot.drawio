@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T07:59:57.611Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.7.4" etag="o7KLj4pZSJaUK1zUBK8Q" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-05T11:08:47.398Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.7.4" etag="JagF1PYJPzhu9kRB68u8" type="github">
   <diagram id="3sjXZGHV_kpMKQa_1T-N" name="第 1 页">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,6 +76,73 @@
             <mxPoint x="1045" y="700" as="sourcePoint" />
             <mxPoint x="1100" y="690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-33" value="监听器模式" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1020" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="33OzaRti-2UMrSSnCl2L-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="1180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-34" value="被观察的东西" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="33OzaRti-2UMrSSnCl2L-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-35" value="去观察的东西" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-37" value="事件源 ： bean的生命周期&amp;nbsp; 事件：初始化 开始 结束&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1150" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-38" value="事件对象" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="707" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-43" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="33OzaRti-2UMrSSnCl2L-40" target="33OzaRti-2UMrSSnCl2L-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="33OzaRti-2UMrSSnCl2L-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-40" value="event&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-41" value="开始的时候肯定要初始化监听器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-42" value="type" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-45" value="data" style="whiteSpace=wrap;html=1;fontSize=15;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-50" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" target="33OzaRti-2UMrSSnCl2L-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="818.5" y="1610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-51" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" target="33OzaRti-2UMrSSnCl2L-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="818.5" y="1610" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-46" value="监听器对象&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-47" value="&lt;span style=&quot;color: rgb(153, 0, 0); font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12px; font-weight: 700; text-align: start; background-color: rgb(248, 248, 248);&quot;&gt;Listener&lt;/span&gt;接口" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="891.5" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="33OzaRti-2UMrSSnCl2L-48" target="33OzaRti-2UMrSSnCl2L-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="33OzaRti-2UMrSSnCl2L-48" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Menlo, Monaco, Consolas, Courier New, monospace&quot; color=&quot;#990000&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(248, 248, 248);&quot;&gt;&lt;b&gt;各种监听器的实现&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="891.5" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
