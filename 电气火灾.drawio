@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T04:33:31.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4c-jQXLwLQ4BVPUnn0Zi" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T04:36:48.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="mPlX3XrkopcnalRhBhTp" version="21.7.2" type="github">
   <diagram name="第 1 页" id="Cvnru_8ZgVQWGcG2YRoV">
-    <mxGraphModel dx="1866" dy="508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1584" dy="508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,8 +112,8 @@
         <mxCell id="jyO5-WvrYrrkGgKPPHPB-77" value="自动研判处置方案" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1010" y="818.5" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jyO5-WvrYrrkGgKPPHPB-79" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;电气火灾风险监测&lt;/font&gt;&lt;br&gt;（业务改革创新环节）&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="568" width="140" height="40" as="geometry" />
+        <mxCell id="jyO5-WvrYrrkGgKPPHPB-79" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;电气火灾风险监测&lt;/font&gt;&lt;br&gt;（人工监测变为智能设备自动监测）&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="566.5" width="210" height="43" as="geometry" />
         </mxCell>
         <mxCell id="jyO5-WvrYrrkGgKPPHPB-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;电气火灾风险研判&lt;br&gt;（&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;人工操作变为平台系统自动化研判&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;）&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="699" y="750.5" width="226" height="46" as="geometry" />
@@ -229,7 +229,7 @@
         <mxCell id="jyO5-WvrYrrkGgKPPHPB-267" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="888.5" as="sourcePoint" />
-            <mxPoint x="1456" y="888.5" as="targetPoint" />
+            <mxPoint x="1456" y="888" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jyO5-WvrYrrkGgKPPHPB-268" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -279,6 +279,9 @@
             <mxPoint x="-2" y="968" as="sourcePoint" />
             <mxPoint x="694" y="968" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jyO5-WvrYrrkGgKPPHPB-295" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;创&lt;br&gt;新&lt;br&gt;环&lt;br&gt;节&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1509" y="618" width="40" height="118" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
