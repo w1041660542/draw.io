@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T17:42:39.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="h5uposlJ4q8HZ1wdQg7d" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-13T17:43:52.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_DOnnMCQPv2NUr5sK4BE" version="21.7.4" type="github">
   <diagram name="第 1 页" id="Cvnru_8ZgVQWGcG2YRoV">
     <mxGraphModel dx="1553" dy="455" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="622" y="489" />
-              <mxPoint x="503" y="489" />
+              <mxPoint x="527" y="489" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -248,11 +248,8 @@
         <mxCell id="jyO5-WvrYrrkGgKPPHPB-272" value="群众发现电气风险现象&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="171" y="543.5" width="208" height="50.5" as="geometry" />
         </mxCell>
-        <mxCell id="6ESn1KodmGU27KJJrDq7-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jyO5-WvrYrrkGgKPPHPB-273" target="6ESn1KodmGU27KJJrDq7-89">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jyO5-WvrYrrkGgKPPHPB-273" value="企事业单位定期自查" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="423.5" y="542" width="210.5" height="51" as="geometry" />
+          <mxGeometry x="425" y="541.38" width="210.5" height="51" as="geometry" />
         </mxCell>
         <mxCell id="6ESn1KodmGU27KJJrDq7-273" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jyO5-WvrYrrkGgKPPHPB-274" target="6ESn1KodmGU27KJJrDq7-257">
           <mxGeometry relative="1" as="geometry" />
@@ -697,6 +694,12 @@
         </mxCell>
         <mxCell id="6ESn1KodmGU27KJJrDq7-272" value="企业风险整改" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="938.5" y="1372" width="213" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="6ESn1KodmGU27KJJrDq7-275" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="6ESn1KodmGU27KJJrDq7-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="502.97" y="609.38" as="targetPoint" />
+            <mxPoint x="502.47" y="592.38" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
