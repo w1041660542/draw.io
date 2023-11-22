@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T06:46:10.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Y_AovYkMajUKuUgoBIML" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-22T07:48:11.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yUfDEZQ_AYbRXJhUPcxK" version="22.1.3" type="github">
   <diagram id="PlublSvK_MQphL0xz0bs" name="第 1 页">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,9 +48,6 @@
               <mxPoint x="90" y="320" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Qrs4yEhAzPf86EzatO-5-1" value="两个人的事情？&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
