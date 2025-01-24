@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.7">
   <diagram name="第 1 页" id="ECC6rZ9Va8rDYsT2l-5V">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EcGmVap3r4CNm-pQutmE-1" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;博弈论&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="680" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="EcGmVap3r4CNm-pQutmE-2" value="田忌赛马" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EcGmVap3r4CNm-pQutmE-3" value="所罗门王断案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EcGmVap3r4CNm-pQutmE-4" value="指鹿为马-反面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="270" width="173" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EcGmVap3r4CNm-pQutmE-5" value="第一章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="700" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
