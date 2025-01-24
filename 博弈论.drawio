@@ -8,16 +8,22 @@
           <mxGeometry x="300" y="60" width="680" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EcGmVap3r4CNm-pQutmE-2" value="田忌赛马" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="230" height="60" as="geometry" />
+          <mxGeometry x="300" y="270" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcGmVap3r4CNm-pQutmE-3" value="所罗门王断案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="270" width="230" height="60" as="geometry" />
+          <mxGeometry x="470" y="270" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcGmVap3r4CNm-pQutmE-4" value="指鹿为马-反面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="270" width="173" height="60" as="geometry" />
+          <mxGeometry x="650" y="270" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EcGmVap3r4CNm-pQutmE-5" value="第一章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="200" width="700" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EcGmVap3r4CNm-pQutmE-7" value="信息甄别" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="840" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EcGmVap3r4CNm-pQutmE-8" value="伪装" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="960" y="240" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
