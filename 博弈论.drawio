@@ -31,6 +31,9 @@
         <mxCell id="EcGmVap3r4CNm-pQutmE-9" value="因对博弈论做出杰出贡献而获得2005年诺贝尔经济学奖的美国哈佛大学教授托马斯·谢林，在给学生们上博弈论课时，会先在第一堂课上滔滔不绝地讲述这门课的要求有多么严格。部分学生听后便会开溜。他还会进一步谈到他规定的刻苦努力的具体要求是什么，很多学生都觉得自己很难达到，这个时候开溜的学生会越来越多。最后，教室里可能只剩下少数的学生，坐在那里汗流浃背、惊恐万状。此时，托马斯·谢林教授就会告诉那些仍然留在教室的学生，他刚才说的那些话是一种“诡计”​，以此希望把班级的人数降到可控的范围，而且确保留下来的一定是那些真正喜欢博弈论又肯努力的学生。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1090" y="400" width="540" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="EcGmVap3r4CNm-pQutmE-13" value="蜈蚣博弈" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
